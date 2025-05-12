@@ -50,7 +50,7 @@ To edit a single mapping discovered in the automapping process:
 
 If you want to add one single user mapping or group mapping:
 1. Select the **Import users and groups** button from the menu bar to activate the importing panel.
-2. Choose **Sing user mapping** or **Sing group mapping**.
+2. Choose **Single user mapping** or **Single group mapping**.
 3. Input the user or group in both the source and the destination textboxes.
 4. Select **Save**.
 
